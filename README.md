@@ -1,4 +1,4 @@
-# chatgpt_todo
+# chatgpt_emoji
 
 A new Flutter project.
 

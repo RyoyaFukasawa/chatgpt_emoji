@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.chatgpt_todo">
    <application
-        android:label="chatgpt_todo"
+        android:label="chatgpt_eomji"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

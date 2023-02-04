@@ -1,4 +1,4 @@
-import 'package:chatgpt_todo/chatgpt_todo.dart';
+import 'package:chatgpt_todo/chatgpt_emoji.dart';
 import 'package:flutter/material.dart';
 import 'package:get/route_manager.dart';
 
